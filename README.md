@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Phiravit
-- 👀 I’m interested in Javascript, NodeJS, Rust, C++
-- 🌱 I’m currently learning Rust, C++
+- 👋 Hi, I’m @Phiravit aka Samuel
+- 👀 I’m interested in Java, NodeJs, Cysec
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 Discord : bunnysotasty
 
