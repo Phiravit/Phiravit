@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phiravit aka Samuel
-- 👀 I’m interested in Java, NodeJs, Cysec
+- 👀 I’m interested in Java, NodeJs and Cysec
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything tech related pls hmu!
 - 📫 Discord : bunnysotasty
 
 <!---
