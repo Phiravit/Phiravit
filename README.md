@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @Phiravit aka Samuel
-- 👀 I’m interested in Java, NodeJs and Cysec
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything tech related pls hmu!
-- 📫 Discord : bunnysotasty
+# 👋 Hi there! I'm Samuel (@Phiravit)
+
+## About Me
+I'm a passionate developer with interests in backend development and cybersecurity. Currently focusing on mastering Java while exploring other technologies.
+
+### 🔭 Tech Stack
+- Java
+- Node.js
+- Cybersecurity
+
+### 🌱 Current Focus
+- Building robust backend applications
+- Learning software architecture patterns
+- Exploring cybersecurity concepts
+
+### 💡 Goals
+- Contribute to open source projects
+- Build secure and scalable applications
+- Collaborate with other developers on exciting projects
+
+### 📫 Let's Connect!
+- Discord: bunnysotasty
+- Feel free to reach out for collaboration or just a tech chat!
 
 <!---
 Phiravit/Phiravit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
