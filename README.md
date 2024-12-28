@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Samuel (@Phiravit)
 
-## About Me
+### About Me
 I'm a passionate developer with interests in backend development and cybersecurity. Currently focusing on mastering Java while exploring other technologies.
 
 ### 🔭 Tech Stack
