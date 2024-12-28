@@ -1,28 +1,17 @@
-# 👋 Hi there! I'm Samuel (@Phiravit)
 
-### About Me
-I'm a passionate developer with interests in backend development and cybersecurity. Currently focusing on mastering Java while exploring other technologies.
+<div align="center">
+  
+My name is Phiravit Imsuchart
+A comically stupid ahh college students
 
-### 🔭 Tech Stack
-- Java
-- Javascript
-- MySQL
+Tech Stack :
+Programming Language : JS, Java, SQL, Lua
+OS : Linux, Windows
 
-### 🌱 Current Focus
-- Building backend applications
-- Learning software architecture patterns
-- Exploring cybersecurity concepts
+![alt text](https://media.discordapp.net/attachments/825017831715373111/1018800041827250218/attachment-30.gif?ex=677107fa&is=676fb67a&hm=c13413296024579143ba261d7c8cc33e9a29769476eaec7f910f514b9cd337f4&)
 
-### 💡 Goals
-- Contribute to open source projects
-- Build secure and scalable applications
-- Collaborate with other developers on exciting projects
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phiravit&show_icons=true&theme=radical)
 
-### 📫 Let's Connect!
-- Discord: bunnysotasty
-- Feel free to reach out for collaboration or just a tech chat!
-
-<!---
-Phiravit/Phiravit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://media1.tenor.com/m/q03LPJkpepIAAAAd/2021.gif" width="250" alt="my beloved" title="my beloved"><img src="https://media1.tenor.com/m/q03LPJkpepIAAAAd/2021.gif" width="250" alt="my beloved" title="my beloved"><img src="https://media1.tenor.com/m/q03LPJkpepIAAAAd/2021.gif" width="250" alt="my beloved" title="my beloved"><br>
+^^^MY BELOVED^^^
+</div>
