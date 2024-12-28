@@ -5,8 +5,8 @@ I'm a passionate developer with interests in backend development and cybersecuri
 
 ### 🔭 Tech Stack
 - Java
-- Node.js
-- Cybersecurity
+- Javascript
+- MySQL
 
 ### 🌱 Current Focus
 - Building backend applications
