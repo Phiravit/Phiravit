@@ -9,7 +9,7 @@ I'm a passionate developer with interests in backend development and cybersecuri
 - Cybersecurity
 
 ### 🌱 Current Focus
-- Building robust backend applications
+- Building backend applications
 - Learning software architecture patterns
 - Exploring cybersecurity concepts
 
