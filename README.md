@@ -1,9 +1,11 @@
+## About Me
+
 Hi I'm Phiravit Imsuchart <br>
 All my homies called me Sam or Samuel
 
 A comically stupid ahh college students who do leetcodes for fun :D
 
-### Tech Stack :<br>
+## Tech Stack <br>
 Programming Language : JS, Java, SQL, Lua<br>
 OS : Linux (Arch and MintOs), Windows
 
