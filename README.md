@@ -1,10 +1,12 @@
-My name is Phiravit Imsuchart
+Hi I'm Phiravit Imsuchart
+All my homies called me Sam or Samuel
 
 A comically stupid ahh college students
+Leetcodes and codeforces for fun :D
 
 ### Tech Stack :<br>
 Programming Language : JS, Java, SQL, Lua<br>
-OS : Linux, Windows
+OS : Linux (Arch and Mint), Windows
 
 <img src="https://media.discordapp.net/attachments/825017831715373111/1018800041827250218/attachment-30.gif?ex=677107fa&is=676fb67a&hm=c13413296024579143ba261d7c8cc33e9a29769476eaec7f910f514b9cd337f4&" width="500" alt="piss car" title="piss car">
 
