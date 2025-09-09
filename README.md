@@ -35,11 +35,11 @@ Hi all my homies called me **Sam** or **Samuel** <br>
 
 <div align="center">
   
-<img src="https://media1.tenor.com/m/IB5Q5HXxJPAAAAAC/raiden-raiden-mei.gif" width="185" alt="my beloved" title="my beloved">
-<img src="https://media1.tenor.com/m/EmKn9aIH5OEAAAAd/raiden-mei-honkai-impact-3rd.gif" width="185" alt="my beloved" title="my beloved">
-<img src="https://media1.tenor.com/m/-eJvVUvlMQQAAAAC/sybau-mei-raiden-mei.gif" width="185" alt="my beloved" title="my beloved">
-<img src="https://media1.tenor.com/m/EmKn9aIH5OEAAAAd/raiden-mei-honkai-impact-3rd.gif" width="185" alt="my beloved" title="my beloved">
-<img src="https://media1.tenor.com/m/IB5Q5HXxJPAAAAAC/raiden-raiden-mei.gif" width="185" alt="my beloved" title="my beloved"><br>
+<img src="https://media1.tenor.com/m/IB5Q5HXxJPAAAAAC/raiden-raiden-mei.gif" width="180" alt="my beloved" title="my beloved">
+<img src="https://media1.tenor.com/m/EmKn9aIH5OEAAAAd/raiden-mei-honkai-impact-3rd.gif" width="180" alt="my beloved" title="my beloved">
+<img src="https://media1.tenor.com/m/-eJvVUvlMQQAAAAC/sybau-mei-raiden-mei.gif" width="180" alt="my beloved" title="my beloved">
+<img src="https://media1.tenor.com/m/EmKn9aIH5OEAAAAd/raiden-mei-honkai-impact-3rd.gif" width="180" alt="my beloved" title="my beloved">
+<img src="https://media1.tenor.com/m/IB5Q5HXxJPAAAAAC/raiden-raiden-mei.gif" width="180" alt="my beloved" title="my beloved"><br>
 
 <b>^^^ MY BELOVED ^^^</b>
 </div>
