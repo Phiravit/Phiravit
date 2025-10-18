@@ -1,7 +1,6 @@
 ## <img src="https://img.shields.io/badge/About%20Me-%F0%9F%92%9C-%238A2BE2?style=flat-square" />
 
 Hi all my homies called me **Sam** or **Samuel** <br>
-**Homeless Deadline Wizard**
 
 
 ## <img src="https://img.shields.io/badge/Tech%20Stack-%F0%9F%92%AB-%23FF6EC7?style=flat-square" />
